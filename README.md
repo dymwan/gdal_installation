@@ -31,4 +31,6 @@ add all path containing gdal.py to `/etc/profile`
 
 LAST, reboot to check the installation
 
-
+if :  
+`>>>import osgeo.gdal`   
+without any error, Congratulations! :)
