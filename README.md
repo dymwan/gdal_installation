@@ -34,3 +34,5 @@ LAST, reboot to check the installation
 if :  
 `>>>import osgeo.gdal`   
 without any error, Congratulations! :)
+
+[comment]:<Add some Error fixer>
